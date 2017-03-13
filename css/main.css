@@ -1,0 +1,29 @@
+html {
+  font-family: "Open Sans", sans-serif;
+  background-color: #f2f2f2;
+}
+
+.content {
+  background-color: #fff;
+  padding: 1rem;
+  line-height: 1.5rem;
+}
+
+input,
+textarea {
+  border: 1px #000 solid;
+}
+
+h1 {
+  border-bottom: 0.5px #000 solid;
+}
+@media only screen and (min-width: 60em) {
+
+  input,
+  select {
+    display: inline-block;
+  }
+
+
+
+}
